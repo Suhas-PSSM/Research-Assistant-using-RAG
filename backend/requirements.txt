@@ -7,7 +7,7 @@ langchain
 langchain-community
 langchain-core
 langchain-groq
-
+sentence-transformers
 
 pinecone
 
